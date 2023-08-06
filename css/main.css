@@ -461,6 +461,7 @@ footer .container {
 
 footer .header-nav {
     border-bottom: 2px solid white;
+    justify-content: center;
 }
 
 footer .text {
