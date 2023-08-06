@@ -475,6 +475,7 @@ footer .text {
     footer .text {
         flex-direction: column-reverse;
         gap: 10px;
+        text-align: center;
     }
 }
 
